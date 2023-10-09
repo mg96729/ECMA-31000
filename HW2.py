@@ -1,3 +1,5 @@
+# For HW 2: Q 9
+
 import numpy as np
 
 p = 0.4 # probability of each draw
