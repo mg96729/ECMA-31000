@@ -13,5 +13,4 @@ for i in range(t):
     if p > avg_s_i-ep and p<avg_s_i+ep:
         number_of_good_ci += 1
 
-print(number_of_good_ci/t)
-print(1-1/(4*n*ep*ep))
+print([i for i in range(10, -1, -1)])
